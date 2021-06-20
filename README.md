@@ -1,4 +1,4 @@
-# cuzdan
+# CuzdanApp
 
 A new Flutter project.
 
